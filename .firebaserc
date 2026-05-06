@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "grc-live-score"
+  },
+  "targets": {
+    "grc-live-score": {
+      "hosting": {
+        "qr": [
+          "grc-attendance-3a712"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
